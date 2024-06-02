@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\bin\Debug\Extremamente Basico.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\bin\Debug\Extremamente Basico.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\bin\Debug\Extremamente Basico.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\obj\Debug\Extremamente Basico.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\obj\Debug\Extremamente Basico.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\obj\Debug\Extremamente Basico.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\obj\Debug\Extremamente Basico.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Extremamente Basico\Extremamente Basico\obj\Debug\Extremamente Basico.pdb
