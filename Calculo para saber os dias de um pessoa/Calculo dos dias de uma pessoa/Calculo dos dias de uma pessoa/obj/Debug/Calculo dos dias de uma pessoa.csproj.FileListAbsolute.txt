@@ -6,3 +6,11 @@ C:\Users\marcio nkrumah\3D Objects\C#\Calculo para saber os dias de um pessoa\Ca
 C:\Users\marcio nkrumah\3D Objects\C#\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\bin\Debug\Calculo dos dias de uma pessoa.pdb
 C:\Users\marcio nkrumah\3D Objects\C#\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.exe
 C:\Users\marcio nkrumah\3D Objects\C#\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\bin\Debug\Calculo dos dias de uma pessoa.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\bin\Debug\Calculo dos dias de uma pessoa.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\bin\Debug\Calculo dos dias de uma pessoa.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Calculo para saber os dias de um pessoa\Calculo dos dias de uma pessoa\Calculo dos dias de uma pessoa\obj\Debug\Calculo dos dias de uma pessoa.pdb
