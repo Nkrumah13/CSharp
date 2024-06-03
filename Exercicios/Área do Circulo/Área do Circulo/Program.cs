@@ -17,6 +17,7 @@ namespace Área_do_Circulo
             double area =  n * raio * raio;
             Console.WriteLine("A="+ area.ToString("0.0000"));
             Console.ReadKey();
+
                 
         }
     }
