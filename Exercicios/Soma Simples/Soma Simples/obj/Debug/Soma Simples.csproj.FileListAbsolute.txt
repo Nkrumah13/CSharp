@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\bin\Debug\Soma Simples.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\bin\Debug\Soma Simples.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\bin\Debug\Soma Simples.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\obj\Debug\Soma Simples.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\obj\Debug\Soma Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\obj\Debug\Soma Simples.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\obj\Debug\Soma Simples.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Soma Simples\Soma Simples\obj\Debug\Soma Simples.pdb
