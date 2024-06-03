@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\bin\Debug\Produto Simples.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\bin\Debug\Produto Simples.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\bin\Debug\Produto Simples.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\obj\Debug\Produto Simples.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\obj\Debug\Produto Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\obj\Debug\Produto Simples.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\obj\Debug\Produto Simples.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Produto Simples\Produto Simples\obj\Debug\Produto Simples.pdb
