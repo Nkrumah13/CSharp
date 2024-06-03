@@ -18,7 +18,6 @@ namespace Área_do_Circulo
                 Console.WriteLine("A="+ area.ToString("0.0000"));
                 Console.ReadKey();
 
-                
         }
     }
 }
