@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\bin\Debug\Área do Circulo.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\bin\Debug\Área do Circulo.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\bin\Debug\Área do Circulo.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\obj\Debug\Área do Circulo.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\obj\Debug\Área do Circulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\obj\Debug\Área do Circulo.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\obj\Debug\Área do Circulo.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Área do Circulo\Área do Circulo\obj\Debug\Área do Circulo.pdb
