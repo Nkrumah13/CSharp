@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\bin\Debug\Média 1.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\bin\Debug\Média 1.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\bin\Debug\Média 1.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\obj\Debug\Média 1.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\obj\Debug\Média 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\obj\Debug\Média 1.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\obj\Debug\Média 1.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Média 1\Média 1\obj\Debug\Média 1.pdb
