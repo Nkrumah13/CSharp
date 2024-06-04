@@ -10,23 +10,7 @@ namespace Média_1
     {
         static void Main(string[] args)
         {
-            //double A;
-            //double B;
-
-            //A = double.Parse(Console.ReadLine());   
-            //B = double.Parse(Console.ReadLine());
-            //if (A > 10.0)
-            //{
-
-
-            //    Console.WriteLine("Impóssivel");
-
-            //}
-            //double MEDIA = (A + B) / 2;
-            //Console.WriteLine("MEDIA = " + MEDIA);
-
-
-            //Console.ReadKey();
+            
 
 
             double A, B, MEDIA;
