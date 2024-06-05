@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\bin\Debug\Salário.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\bin\Debug\Salário.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\bin\Debug\Salário.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\obj\Debug\Salário.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\obj\Debug\Salário.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\obj\Debug\Salário.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\obj\Debug\Salário.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salário\Salário\obj\Debug\Salário.pdb

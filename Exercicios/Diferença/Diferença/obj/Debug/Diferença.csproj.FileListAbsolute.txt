@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\bin\Debug\Diferença.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\bin\Debug\Diferença.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\bin\Debug\Diferença.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\obj\Debug\Diferença.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\obj\Debug\Diferença.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\obj\Debug\Diferença.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\obj\Debug\Diferença.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Diferença\Diferença\obj\Debug\Diferença.pdb
