@@ -10,6 +10,14 @@ namespace Salario_com_bonus
     {
         static void Main(string[] args)
         {
+            string Vendedor = Console.ReadLine();
+            double Salario;
+            double vendas;
+            Salario = double.Parse(Console.ReadLine());
+            vendas = double.Parse(Console.ReadLine());
+            double Total = vendas * 0.15 + Salario;
+            Console.WriteLine(" TOTAL = R$ " + Total.ToString("0.00"));
+            Console.ReadKey();
         }
     }
 }

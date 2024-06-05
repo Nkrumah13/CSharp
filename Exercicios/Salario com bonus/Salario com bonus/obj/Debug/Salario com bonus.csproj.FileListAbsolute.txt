@@ -1,0 +1,8 @@
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\bin\Debug\Salario com bonus.exe.config
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\bin\Debug\Salario com bonus.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\bin\Debug\Salario com bonus.pdb
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\obj\Debug\Salario com bonus.csproj.AssemblyReference.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\obj\Debug\Salario com bonus.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\obj\Debug\Salario com bonus.csproj.CoreCompileInputs.cache
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\obj\Debug\Salario com bonus.exe
+C:\Users\marcio nkrumah\3D Objects\CSharp\Exercicios\Salario com bonus\Salario com bonus\obj\Debug\Salario com bonus.pdb
