@@ -11,50 +11,29 @@ namespace Calculo_Simples
         static void Main(string[] args)
         {
 
-            //Console.WriteLine("Digite dois números separados por espaço:");
-            //string input = Console.ReadLine();
-            //string[] inputs = input.Split(' ');
+            //int codigopeca1, codigopeca2, numeropeca1, numeropeca2;
+            // float valorpeca1, valorpeca2;
 
-            //int num1 = int.Parse(inputs[0]);
-            //int num2 = int.Parse(inputs[1]);
+            // Lendo os dados da peça 1
+            string[] peca1 = Console.ReadLine().Split(' ');
+            int codigoPeca1 = int.Parse(peca1[0]);
+            int numeroPecas1 = int.Parse(peca1[1]);
+            double valorUnitarioPeca1 = double.Parse(peca1[2]);
 
-            //Console.WriteLine($"Os números digitados foram: {num1} e {num2}");
+            // Lendo os dados da peça 2
+            string[] peca2 = Console.ReadLine().Split(' ');
+            int codigoPeca2 = int.Parse(peca2[0]);
+            int numeroPecas2 = int.Parse(peca2[1]);
+            double valorUnitarioPeca2 = double.Parse(peca2[2]);
 
-            //string input1 = Console.ReadLine();
-            //string[] inputs = input1.Split(new char[] { });
-            //int codpeca1 = int.Parse(inputs[0]);
-            //int numpeca1 = int.Parse(inputs[1]);
-            //float valorpeca1 = float.Parse(inputs[2]);   
+            // Calculando o valor total a ser pago
+            double totalPagar = (numeroPecas1 * valorUnitarioPeca1) + (numeroPecas2 * valorUnitarioPeca2);
 
-            //string input2 = Console.ReadLine();
-            //string[] inputs2 = input2.Split(new char[] { });
-            //int numpeca2 = int.Parse(inputs[3]);
-            //int codpeca2 = int.Parse(inputs[4]);    
-            //float valorpeca2 = float.Parse(inputs[5]);
-
-            //float resultado1 = (codpeca1 - numpeca1) / valorpeca1 + numpeca2 - codpeca2 * valorpeca2;
-            //Console.WriteLine("VALOR A PAGAR: R$ "+resultado1);
-
-            //Console.ReadKey();
-
-
-
-
-
-
-            string input1 = Console.ReadLine(); string[] inputs = input1.Split(new char[] { ' ' });
-            int codpeca1 = int.Parse(inputs[0]);
-            int numpeca1 = int.Parse(inputs[1]);
-            float valorpeca1 = float.Parse(inputs[2]);
-
-            string input2 = Console.ReadLine(); string[] inputs2 = input2.Split(new char[] { ' ' });
-            int codpeca2 = int.Parse(inputs2[0]);
-            int numpeca2 = int.Parse(inputs2[1]);
-            float valorpeca2 = float.Parse(inputs2[2]);
-
-            float resultado1 = ((codpeca1 - numpeca1) * valorpeca1) + ((numpeca2 - codpeca2) * valorpeca2);
-            Console.WriteLine("VALOR A PAGAR: R$ " + resultado1.ToString("0.00"));
+            // Exibindo o resultado
+            Console.WriteLine("VALOR A PAGAR: R$ " + totalPagar.ToString("F2"));
             Console.ReadKey();
+
+
         }
     }
 }
